@@ -1,5 +1,5 @@
 
-# x.com vibe checker
+# v1 x.com vibe checker
 
 this sloppy project allows users to analyze the vibe of any x.com username by fetching user data and providing an analysis based on that information
 
